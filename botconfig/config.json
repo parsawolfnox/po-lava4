@@ -1,0 +1,26 @@
+{
+   "token": "OTM1MTI5MjQyNjEyNjYyMjcy.G-Pt07.LlJGr-5-_Q_Pb6bwr1mzzh99C_2erLOSFiO6CQ",
+   "prefix": "?",
+   "ownerIDS": [
+      "652566488741445632"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: https://discord.gg/uxGHwJV4xj",
+      "text2": "By: nox.dev",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+  "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "anything as password"
+         }
+      ]
+},
+   "spotify": {
+      "clientID": "e0459557d2404ac2a2f1a1b3a09b4b94",
+      "clientSecret": "dcc84eb601594c1b90258952fce4b6e0"
+   }
+}
